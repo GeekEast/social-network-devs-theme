@@ -1,0 +1,60 @@
+@import 'config';
+@import 'utilities';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem; // refers to the default font size set in the html, 16px
+  line-height: 1.6;  
+  background-color: #fff;
+  color: #333;
+}
+
+a {
+  text-decoration: none;// remove underline
+  color: $primary-color;
+}
+
+ul {
+  list-style: none; // remove dot point
+}
+
+img {
+  width: 100%;
+}
+
+// NavBar
+.navbar {
+  display:flex; // to horizontal layout
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.7rem 2rem;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  right: 0;
+  border-bottom: solid 1px $primary-color;
+  opacity:0.9;
+
+  ul {
+    display: flex;
+    a {
+      color: #fff;
+      padding: 0.45rem;
+      margin: 0 0.25rem;
+
+      &:hover{
+        color: $primary-color
+      }
+    }
+  }
+
+
+}
