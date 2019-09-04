@@ -1,5 +1,6 @@
 @import 'config';
 @import 'utilities';
+@import 'form';
 
 * {
   box-sizing: border-box;
@@ -48,12 +49,12 @@ img {
   }
 
   a {
-    // color: #fff;
+    color: $primary-color;
     padding: 0.45rem;
     margin: 0 0.25rem;
 
     &:hover{
-      color: $primary-color
+      color: #fff
     }
   }
 }
