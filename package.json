@@ -1,0 +1,19 @@
+{
+  "name": "2.-social-network-devs-theme",
+  "version": "0.1.0",
+  "description": "The theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekEast/social-network-devs-theme.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeekEast/social-network-devs-theme/issues"
+  },
+  "homepage": "https://github.com/GeekEast/social-network-devs-theme#readme"
+}
