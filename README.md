@@ -1,8 +1,11 @@
 ## Source
-[Part I]
-[Part II]
-[Part III]
-[Part IV]
+[Part I](https://www.youtube.com/watch?v=IFM9hbapeA0&t=879s)
+
+[Part II](https://www.youtube.com/watch?v=xoxJxifNWPE&t=10s)
+
+[Part III](https://www.youtube.com/watch?v=j9d7e9_fVu0&t=1490s)
+
+[Part IV](https://www.youtube.com/watch?v=OwllppdFQ3U&t=1s)
 
 ## Question
 
