@@ -7,6 +7,16 @@
 
 [Part IV](https://www.youtube.com/watch?v=OwllppdFQ3U&t=1s)
 
+## Tool
+- VScode: [Live SASS Compilter](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
+```json
+    "liveSassCompile.settings.formats": [{
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/dist/css"
+    }],
+    "liveSassCompile.settings.generateMap": false,
+```
 ## Question
 
 - Why put in front of the file name `_` or `_` in **scss**/**css**?
